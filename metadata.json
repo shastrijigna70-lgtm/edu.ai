@@ -1,0 +1,6 @@
+{
+  "name": "Edu.ai",
+  "description": "An AI-powered study assistant for students featuring comprehensive book libraries, interactive adaptive learning modules, multi-turn Gemini chatbot, real-time voice conversations with Live API, and scholarly research synthesis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
